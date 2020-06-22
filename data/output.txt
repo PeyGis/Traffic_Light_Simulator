@@ -1,0 +1,45 @@
+coffie
+Arrival rate:	10 cars per min
+Departure rate:	5 s per car
+Runtime:	5 min
+Time increment:	10 ms
+Light sequence:	Green 10 s; Amber 1 s; Red 30 s
+Average length:	12 cars
+Median length:	11 cars
+Maximum length:	23 cars
+Average wait:	102 s
+Maximum wait:	185 s
+
+Arrival rate:	20 cars per min
+Departure rate:	2 s per car
+Runtime:	5 min
+Time increment:	100 ms
+Light sequence:	Green 5 s; Amber 1 s; Red 15 s
+Average length:	38 cars
+Median length:	41 cars
+Maximum length:	74 cars
+Average wait:	115 s
+Maximum wait:	214 s
+
+Arrival rate:	0 cars per min
+Departure rate:	0 s per car
+Runtime:	0 min
+Time increment:	0 ms
+Light sequence:	Green 5 s; Amber 1 s; Red 0 s
+Average length:	0 cars
+Median length:	0 cars
+Maximum length:	0 cars
+Average wait:	0 s
+Maximum wait:	0 s
+
+Arrival rate:	1 cars per min
+Departure rate:	500 s per car
+Runtime:	5 min
+Time increment:	10 ms
+Light sequence:	Green 0 s; Amber 0 s; Red 0 s
+Average length:	5 cars
+Median length:	6 cars
+Maximum length:	9 cars
+Average wait:	95 s
+Maximum wait:	286 s
+
